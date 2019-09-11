@@ -11,7 +11,8 @@ end
 
 def pioneer
   person= { 
-    :name 
+    :name => "Grace Hopper"
+  }
 end
 
 def id_generator
