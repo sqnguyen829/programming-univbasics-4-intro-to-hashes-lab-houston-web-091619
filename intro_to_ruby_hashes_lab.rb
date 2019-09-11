@@ -4,6 +4,8 @@ end
 
 def my_hash
   fish_one{
+    name: 
+  }
 end
 
 def pioneer
