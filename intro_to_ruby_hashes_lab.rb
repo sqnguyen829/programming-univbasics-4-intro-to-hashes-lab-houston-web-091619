@@ -33,6 +33,7 @@ def read_from_hash(hash, key)
     {hash => key}
   else
     NIL
+  end
   
 end
 
