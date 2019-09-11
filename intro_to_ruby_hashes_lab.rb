@@ -3,8 +3,9 @@ def new_hash
 end
 
 def my_hash
-  fish: "redfish"
-  type_of_water: "salt water"
+  
+  #fish: "redfish"
+  #type_of_water: "salt water"
 end
 
 def pioneer
