@@ -32,7 +32,7 @@ def read_from_hash(hash, key)
   if hash => key
     {hash => key}
   else
-    NIL
+    nil
   end
   
 end
