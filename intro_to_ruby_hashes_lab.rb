@@ -3,7 +3,6 @@ def new_hash
 end
 
 def my_hash
-  
   fish_one = {
     fish: "redfish" ,
     type_of_water: "salt water"
