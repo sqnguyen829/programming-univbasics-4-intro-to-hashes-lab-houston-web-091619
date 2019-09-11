@@ -4,7 +4,7 @@ end
 
 def my_hash
   fish_one{
-    name: 
+    name: "red fish"
   }
 end
 
