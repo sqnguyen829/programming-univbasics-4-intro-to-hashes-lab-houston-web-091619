@@ -7,6 +7,9 @@ def my_hash
     name: "red fish",
     water_type: "salt water fish"
   }
+  
+  fish_one
+  
 end
 
 def pioneer
