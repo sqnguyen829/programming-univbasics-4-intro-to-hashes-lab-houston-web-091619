@@ -4,8 +4,8 @@ end
 
 def my_hash
   
-  fish: "redfish"
-  #type_of_water: "salt water"
+  fish_one {fish: "redfish"
+  type_of_water: "salt water"
 end
 
 def pioneer
