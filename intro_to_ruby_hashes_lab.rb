@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {"redfish" => "salt water"}
+  
 end
 
 def pioneer
