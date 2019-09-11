@@ -1,28 +1,43 @@
 def new_hash
-  {}
+  some_hash={}
 end
 
 def my_hash
-  { "Programming" => "is great!"}
+  fish_one = {
+    fish: "redfish" ,
+    type_of_water: "salt water"
+  }
 end
 
 def pioneer
-  {name: 'Grace Hopper'}
+  person= { 
+    :name => "Grace Hopper"
+  }
 end
 
 def id_generator
-  {id: 4}
+  some_num={
+    id: 8
+  }
 end
 
 def my_hash_creator(key, value)
-  {key => value}
+  some_hash = { 
+    key => value
+  }
 end
 
 def read_from_hash(hash, key)
+  
   hash[key]
+  
 end
 
 def update_counting_hash(hash, key)
-  hash[key]?hash[key] += 1 : hash[key] = 1
+  if hash[key]
+    hash[key] +=1
+  else 
+    hash[key] = 1
+  end
   hash
 end
