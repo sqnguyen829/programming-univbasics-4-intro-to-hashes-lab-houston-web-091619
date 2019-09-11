@@ -30,7 +30,7 @@ end
 def read_from_hash(hash, key)
   
   if hash => key
-    key
+    [hash]
   else
     nil
   end
