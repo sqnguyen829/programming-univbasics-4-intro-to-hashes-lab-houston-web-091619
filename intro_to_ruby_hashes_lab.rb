@@ -17,7 +17,7 @@ end
 
 def id_generator
   some_num={
-    id: 
+    id: 8
   }
 end
 
