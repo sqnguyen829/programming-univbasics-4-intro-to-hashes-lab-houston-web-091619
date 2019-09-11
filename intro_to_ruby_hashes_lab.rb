@@ -30,8 +30,9 @@ end
 def read_from_hash(hash, key)
   
   if hash => key
-    return
-  
+    {hash => key}
+  else
+    NIL
   
 end
 
