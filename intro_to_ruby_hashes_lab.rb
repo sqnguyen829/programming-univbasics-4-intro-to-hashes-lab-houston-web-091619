@@ -29,12 +29,7 @@ end
 
 def read_from_hash(hash, key)
   
-  if hash => key
-    some_hash ={ hash =>key}
-    some_hash[hash]
-  else
-    nil
-  end
+  hash[key]
   
 end
 
