@@ -4,7 +4,7 @@ end
 
 def my_hash
   fish: "redfish"
-  
+  type_of_water: "salt water"
 end
 
 def pioneer
